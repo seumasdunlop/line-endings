@@ -11,3 +11,5 @@ Cras pharetra mi tristique sapien vestibulum lobortis. Nam eget bibendum metus,
 non dictum mauris. Nulla at tellus sagittis, viverra est a, bibendum metus.
 
 Commit with autocrlf=false
+
+Checkout and commit with autocrlf=true
