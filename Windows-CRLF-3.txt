@@ -12,3 +12,5 @@ non dictum mauris. Nulla at tellus sagittis, viverra est a, bibendum metus.
 
 Commit with autocrlf=false and .gitattributes "* text=auto eol=lf"
 
+Trying to commit with gitattributes set on this CRLF file
+
